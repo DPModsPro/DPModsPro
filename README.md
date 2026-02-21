@@ -1,56 +1,66 @@
 <div align="center">
-  <img src="https://github.com/DPModsPro/DPModsPro/blob/main/20250103_083526.png" width="150" alt="logo" />
-  <h1>🚀 Hi, I'm Raj</h1>
-  <h3>⚡ Passionate Frontend Developer & API Architect from India 🇮🇳</h3>
-</div>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI,%20I'M%20RAJ%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rrrmods&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/rrrmods?label=FOLLOWERS&style=flat-square&color=0e75b6" alt="followers" />
+</p>
 
 ---
 
-### 🟢 About Me
-- 🔭 I’m currently working on **Anime Streaming APIs** and **High-Performance Extractors**.
-- 🌱 Learning deep concepts of **Backend Security** and **Cloud Deployment**.
-- 💬 Ask me about **JavaScript, API Scraping, or UI/UX**.
-- ⚡ Fun fact: **I code faster when I'm laughing 😅**
+### 💫 About Me
+**Frontend Developer | Creative Mind | Open Source Enthusiast**
 
-<br/>
+- ⚡ **Passion:** Crafting pixel-perfect, responsive web interfaces.
+- 🛠️ **Current Goal:** Mastering advanced React patterns and UI/UX.
+- 🎭 **Fun Fact:** I believe a good laugh is the best debug tool! 😅
 
-<div align="center">
-  <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</div>
+---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Tech Stack & Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react,github,vscode,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,figma,nodejs,mongodb" />
   </a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Statistics
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rrrmods&show_icons=true&theme=tokyonight&count_private=true" alt="Raj's Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrrmods&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrrmods&theme=tokyonight" alt="Streak Stats" />
-  </p>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rrrmods&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6" alt="Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrrmods&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6" alt="Langs" />
+      </td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rrrmods&theme=tokyonight&hide_border=true&stroke=0e75b6" alt="Streak" />
 </div>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect With Me
 <p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rrrmods"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/rrrmods" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+<a href="mailto:your-email@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+<a href="https://t.me/your_username" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+</a>
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rrrmods&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
 </div>
