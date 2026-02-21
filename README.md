@@ -1,45 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=200&section=header&text=DP%20MODS%20PRO%20⚡&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=DP%20MODS%20PRO%20⚡&fontSize=75&animation=twinkling&fontAlignY=35&desc=REVERSE%20ENGINEER%20|%20APP%20MODDER&descAlignY=60&descSize=22&fontColor=00ff41" width="100%" />
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DPModsPro&label=LIVE%20VIEWS&color=00c853&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/DPModsPro?label=FOLLOWERS&style=for-the-badge&color=00c853" />
+  <img src="https://komarev.com/ghpvc/?username=DPModsPro&label=SYSTEM%20ACCESS&color=00ff41&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/DPModsPro?label=MOD%20NETWORK&style=for-the-badge&color=00ff41" />
 </p>
 
 ---
 
-### 🛡️ About Me: The Modding Specialist
-I am a **Beginner Frontend Developer** with a deep interest in **Reverse Engineering** and **App Modding**. I love to bypass limits and explore the "premium" side of things.
+### 🛡️ MODDING INTELLIGENCE
+I specialize in deconstructing applications, bypassing premium digital locks, and analyzing smali/binary code for optimization.
 
-- 🔓 **Expertise:** Android App Modding & Premium Bypassing.
-- 🎨 **Learning:** Building sleek UI with HTML, CSS, and React.
-- ⚡ **Vibe:** I don't just use apps; I rebuild them.
-
----
-
-### 🚀 Tech & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,androidstudio,java,git,github,vscode&theme=dark" />
-</p>
+- 🔓 **Reverse Engineering:** Expert in APK decompilation and source-level analysis.
+- 🛠️ **App Modding:** Specialist in premium feature bypassing and license removal.
+- ⚡ **Status:** Breaking limits and rebuilding logic.
 
 ---
 
-### 📈 Real-time Analytics
+### 🛠️ MODDER TOOLKIT
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPModsPro&show_icons=true&theme=dark&hide_border=true&icon_color=00c853&title_color=00c853&count_private=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPModsPro&theme=dark&hide_border=true&stroke=00c853&ring=00c853" width="100%" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,cpp,py,linux,git,github,vscode,powershell&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📊 SYSTEM PERFORMANCE (REAL-TIME)
 <p align="center">
-<a href="https://github.com/DPModsPro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://t.me/DPModsPro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DPModsPro&show_icons=true&theme=matrix&hide_border=true&icon_color=00ff41&title_color=00ff41&bg_color=000000" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPModsPro&theme=matrix&hide_border=true&stroke=00ff41&ring=00ff41&background=000000" width="100%" />
+</p>
+
+---
+
+### 📡 SECURE CONNECTIONS
+<p align="center">
+<a href="https://github.com/DPModsPro"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+<a href="https://t.me/MSMods_Official"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=60&section=footer" width="100%" />
 
 </div>
