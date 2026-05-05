@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=DP%20MODS%20PRO%20⚡&fontSize=75&animation=fadeIn&fontAlignY=35&desc=ANDROID%20MODDER%20%E2%80%A2%20INTERMEDIATE%20REVERSE%20ENGINEER&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MS%20MODS%20PRO%20⚡&fontSize=75&animation=fadeIn&fontAlignY=35&desc=ANDROID%20MODDER%20%E2%80%A2%20INTERMEDIATE%20REVERSE%20ENGINEER&descAlignY=55&descSize=20" width="100%" />
 
 <br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MSModsPro&label=SYSTEM%20ACCESS&color=6366f1&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/DPModsPro?label=MOD%20NETWORK&style=for-the-badge&color=8b5cf6" />
+  <img src="https://img.shields.io/github/followers/MSModsPro?label=MOD%20NETWORK&style=for-the-badge&color=8b5cf6" />
 </p>
 
 ---
@@ -33,18 +33,18 @@ I use specialized tools for reverse engineering and application patching:
 
 ### 📊 REAL-TIME OVERRIDE (STRIKE STATS)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPModsPro&show_icons=true&theme=tokyonight&hide_border=true&title_color=a5b4fc&icon_color=818cf8&text_color=e0e7ff&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSModsPro&show_icons=true&theme=tokyonight&hide_border=true&title_color=a5b4fc&icon_color=818cf8&text_color=e0e7ff&bg_color=0D1117" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPModsPro&theme=tokyonight&hide_border=true&stroke=818cf8&ring=818cf8&background=0D1117" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSModsPro&theme=tokyonight&hide_border=true&stroke=818cf8&ring=818cf8&background=0D1117" width="100%" />
 </p>
 
 ---
 
 ### 📡 SECURE CHANNELS
 <p align="center">
-<a href="https://github.com/DPModsPro">
+<a href="https://github.com/MSModsPro">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://t.me/MSMods_Official">
